@@ -57,14 +57,13 @@ class Login_System:
         lbl_user.place(x=100, rely=0.36)
         
         
-        txt_employee_id = Entry(right_frame, textvariable=self.employee_id, font=("Segoe UI", 15), bg="#f4f5f7", bd=0)
+        txt_employee_id = Entry(right_frame, textvariable=self.employee_id, font=("Segoe UI", 15), bg="#e2e6ea", bd=0, fg="#333333")
         txt_employee_id.place(x=100, rely=0.40, width=450, height=45)
-
         
         lbl_pass = Label(right_frame, text="Password", font=("Segoe UI", 12, "bold"), bg="white", fg="#747d8c")
         lbl_pass.place(x=100, rely=0.49)
         
-        txt_pass = Entry(right_frame, textvariable=self.password, show="*", font=("Segoe UI", 15), bg="#f4f5f7", bd=0)
+        txt_pass = Entry(right_frame, textvariable=self.password, show="*", font=("Segoe UI", 15), bg="#e2e6ea", bd=0, fg="#333333")
         txt_pass.place(x=100, rely=0.53, width=450, height=45)
 
         
