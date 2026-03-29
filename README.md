@@ -19,15 +19,22 @@ A complete, robust, and user-friendly Inventory Management System built with Pyt
 * **Database:** SQLite3
 * **Image Handling:** Pillow (PIL)
 
-## 📸 Screenshots
-### Login Page
-![Login Page](screenshots/login.png)
+## 📸 Project Gallery
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+### 🌐 Modern Web Version (Live on Replit)
+*The web version features a modern, responsive UI.*
 
-### Billing Page
-![Billing](screenshots/billing.png)
+| Login Page (Web) | Dashboard (Web) | Billing (Web) |
+|---|---|---|
+| ![Web Login](screenshots/web_login.png) | ![Web Dashboard](screenshots/web_dashboard.png) | ![Web Billing](screenshots/web_billing.png) |
+
+### 💻 Classic Desktop Version (Tkinter)
+*The original desktop application built with Python and Tkinter.*
+
+| Login Page (Desktop) | Dashboard (Desktop) | Billing (Desktop) |
+|---|---|---|
+| ![Desktop Login](screenshots/login.png) | ![Desktop Dashboard](screenshots/dashboard.png) | ![Desktop Billing](screenshots/billing.png) |
+---
 
 ## 🌐 Live Demo
 You can access the live web version of this application here: 
