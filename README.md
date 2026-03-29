@@ -29,6 +29,11 @@ A complete, robust, and user-friendly Inventory Management System built with Pyt
 ### Billing Page
 ![Billing](screenshots/billing.png)
 
+## 🌐 Live Demo
+You can access the live web version of this application here: 
+[**Click here to view Live App**] (https://a9e3f3b4-f4f9-4fd5-ba57-165bdb4e4c75-00-1cil2o929s1mn.pike.replit.dev/)
+---
+
 ## 🛠️ How to Run Locally
 
 1. Clone the repository:
