@@ -38,7 +38,7 @@ A complete, robust, and user-friendly Inventory Management System built with Pyt
 
 ## 🌐 Live Demo
 You can access the live web version of this application here: 
-[**Click here to view Live App**] (https://a9e3f3b4-f4f9-4fd5-ba57-165bdb4e4c75-00-1cil2o929s1mn.pike.replit.dev/)
+[**Click here to view Live App**] (https://inventory-management-system--himanshu-sharma.replit.app)
 ---
 
 ## 🛠️ How to Run Locally
